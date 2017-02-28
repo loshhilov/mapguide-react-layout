@@ -94,7 +94,7 @@
     "testdouble": "^1.11.1",
     "ts-jest": "^19.0.0",
     "ts-loader": "^2.0.1",
-    "tslint": "^4.4.2",
+    "tslint": "4.5.0",
     "typescript": "2.2.1",
     "typings": "^2.1.0",
     "url-loader": "^0.5.8",
