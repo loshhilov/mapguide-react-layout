@@ -97,7 +97,7 @@
     "typescript": "2.2.1",
     "typings": "^2.1.0",
     "url-loader": "^0.5.8",
-    "webpack": "^2.2.1"
+    "webpack": "2.3.0"
   },
   "greenkeeper": {
     "ignore": [
